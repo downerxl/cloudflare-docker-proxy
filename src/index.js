@@ -7,14 +7,14 @@ const dockerHub = "https://registry-1.docker.io";
 
 const routes = {
   // production
-  "docker.jiyitech.top": dockerHub,
-  "quay.jiyitech.top": "https://quay.io",
-  "gcr.jiyitech.top": "https://gcr.io",
-  "k8s-gcr.jiyitech.top": "https://k8s.gcr.io",
-  "k8s.jiyitech.top": "https://registry.k8s.io",
-  "ghcr.jiyitech.top": "https://ghcr.io",
-  "cloudsmith.jiyitech.top": "https://docker.cloudsmith.io",
-  "ecr.jiyitech.top": "https://public.ecr.aws",
+  "docker.downer.top": dockerHub,
+  "quay.downer.top": "https://quay.io",
+  "gcr.downer.top": "https://gcr.io",
+  "k8s-gcr.downer.top": "https://k8s.gcr.io",
+  "k8s.downer.top": "https://registry.k8s.io",
+  "ghcr.downer.top": "https://ghcr.io",
+  "cloudsmith.downer.top": "https://docker.cloudsmith.io",
+  "ecr.downer.top": "https://public.ecr.aws",
 
   // staging
   "docker-staging.jiyitech.top": dockerHub,
